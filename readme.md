@@ -14,6 +14,8 @@
 # App usage:
 
 # Insights:
+* I can use a demo account with play money of 10000 dollars to practice forex trading on, nd when I get good at practicing I can open a xm metatrader 4 forex account not the 5 since it has limited indicators of wheter a currency has dropped or gone up
 
 # Articles, Papers, Videos, Repositories:
-
+Basics of forex: https://www.babypips.com/learn/forex/buying-selling-currency-pairs
+Intermediate concepts and how you can use your schedule and risk personality type to how you trade: forex factory forum
